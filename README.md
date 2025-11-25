@@ -8,7 +8,7 @@ Accurate segmentation of lesions in medical images is crucial for improving clin
 ## 1. Overview
 
 <div align="center">
-<img src="Figs/KCNet.png" />
+<img src="Figs/KCNET.png" />
 </div>
 
 
