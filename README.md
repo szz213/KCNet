@@ -68,7 +68,7 @@ python val.py --name ${dataset}_KCNet --output_dir [YOUR_OUTPUT_DIR]
 The performance of the proposed method is compared with the state-of-the-art models on the BUSI, GlaS, and ISIC2017 datasets, where the best results are shown in bold.
 
 <div align="center">
-<img src="Figs/Table.png" />
+<img src="Figs/table1.png" />
 </div>
 
 
